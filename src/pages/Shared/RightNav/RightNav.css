@@ -1,0 +1,16 @@
+.icon{
+    font-size: 22px;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.create{
+    background-image: url('../../../assets/bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
